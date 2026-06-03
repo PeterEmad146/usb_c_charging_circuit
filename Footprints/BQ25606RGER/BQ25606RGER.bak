@@ -501,7 +501,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin power_out line
 				(at -17.78 -25.4 0)
 				(length 5.08)
 				(name "SYS-1"
